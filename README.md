@@ -2,13 +2,13 @@
 
 Welcome to the public community space for **StatsRun**.
 
-For now, this repository is focused on sharing the **StatsRun public roadmap** — what we are working on, what is planned next, and what areas we are exploring for the future.
+For now, this repository is focused on sharing the StatsRun public roadmap: what we are working on, what is planned next, and what areas we are exploring for the future.
 
 ## Public roadmap
 
 The StatsRun roadmap is intended to give users and the community visibility into our product direction.
 
-Roadmap items may include upcoming features, product improvements, experiments, and areas of exploration across StatsRun, including data stories, dashboard templates, AI-assisted features, and community-driven resources.
+Roadmap items may include upcoming features, product improvements, experiments, and areas of exploration across StatsRun, including data stories, dashboards, templates, and AI-assisted features.
 
 ## How to read the roadmap
 
@@ -28,6 +28,6 @@ Priorities, timelines, and feature details may change as we learn more from user
 
 ## About StatsRun
 
-**StatsRun** is a data storytelling company helping people and teams turn data into clear, engaging stories.
+**StatsRun** is a hybrid of SaaS and Data Creativity Studio. Built for the curious minds. Our mission is to make data accessible to everyone by fostering creativity, curiosity, and imagination in developing insights and visualizations.
 
 Learn more at: [statsrun.com](https://statsrun.com)
