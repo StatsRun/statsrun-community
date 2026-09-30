@@ -16,10 +16,6 @@ Roadmap items are directional and may change based on user feedback, technical p
 
 Dates, quarters, and ordering should be treated as estimates, not commitments.
 
-## Feedback
-
-Feedback is welcome. If you have thoughts on a planned feature or improvement, please leave a comment on the relevant issue or discussion.
-
 ## Important note
 
 This roadmap is not a guarantee that a feature will be delivered by a specific date.
